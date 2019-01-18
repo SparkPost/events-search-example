@@ -1,0 +1,28 @@
+{
+  "name": "events-search-example",
+  "version": "1.0.0",
+  "description": "Example script for integrating with SparkPost's Events Search API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparkPost/events-search-example.git"
+  },
+  "keywords": [
+    "sparkpost",
+    "email",
+    "messaging"
+  ],
+  "author": "SparkPost, Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SparkPost/events-search-example/issues"
+  },
+  "homepage": "https://github.com/SparkPost/events-search-example#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
